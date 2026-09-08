@@ -1,0 +1,111 @@
+{
+  "teams": [
+    {
+      "id": "1765126599483",
+      "name": "Tomelloso FC",
+      "city": "Tomelloso",
+      "coach": "Jesús Navarro Prieto",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/Minecraft_Logo.png"
+    },
+    {
+      "id": "1765126782190",
+      "name": "Club Deportivo Tenerife",
+      "city": "Tenerife",
+      "coach": "Edgar Jeremías Rodriguez",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Escucdt.png"
+    }
+  ],
+  "players": [
+    {
+      "id": "1765126613853",
+      "name": "Jesús 1",
+      "position": "Goalkeeper",
+      "number": 1,
+      "teamId": "1765126599483"
+    },
+    {
+      "id": "1765126621887",
+      "name": "Jesús 2",
+      "position": "Denfender",
+      "number": 2,
+      "teamId": "1765126599483"
+    },
+    {
+      "id": "1765126630715",
+      "name": "Jesús 3",
+      "position": "Denfender",
+      "number": 3,
+      "teamId": "1765126599483"
+    },
+    {
+      "id": "1765126639779",
+      "name": "Jesús 4",
+      "position": "Denfender",
+      "number": 4,
+      "teamId": "1765126599483"
+    },
+    {
+      "id": "1765126648547",
+      "name": "Jesús 5",
+      "position": "Denfender",
+      "number": 5,
+      "teamId": "1765126599483"
+    },
+    {
+      "id": "1765126655786",
+      "name": "Jesús 6",
+      "position": "Midfielder",
+      "number": 6,
+      "teamId": "1765126599483"
+    },
+    {
+      "id": "1765126661953",
+      "name": "Jesús 7",
+      "position": "Midfielder",
+      "number": 7,
+      "teamId": "1765126599483"
+    },
+    {
+      "id": "1765126669661",
+      "name": "Jesús 8",
+      "position": "Midfielder",
+      "number": 8,
+      "teamId": "1765126599483"
+    },
+    {
+      "id": "1765126677427",
+      "name": "Jesús 9",
+      "position": "Midfielder",
+      "number": 9,
+      "teamId": "1765126599483"
+    },
+    {
+      "id": "1765126691627",
+      "name": "Jesús 10",
+      "position": "Forward",
+      "number": 10,
+      "teamId": "1765126599483"
+    },
+    {
+      "id": "1765126699838",
+      "name": "Jesús 11",
+      "position": "Forward",
+      "number": 11,
+      "teamId": "1765126599483"
+    },
+    {
+      "id": "1765126792372",
+      "name": "Jeremías 1",
+      "position": "Goalkeeper",
+      "number": 1,
+      "teamId": "1765126782190"
+    },
+    {
+      "id": "1765126799920",
+      "name": "Jeremías 2",
+      "position": "Denfender",
+      "number": 2,
+      "teamId": "1765126782190"
+    }
+  ]
+}
